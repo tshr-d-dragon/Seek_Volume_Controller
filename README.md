@@ -1,4 +1,4 @@
-# Seek_Volume_Controller
+# Seekbar_Volumebar_Controller
 
 ## Seek and Volume bar controller using OpenCV
 
