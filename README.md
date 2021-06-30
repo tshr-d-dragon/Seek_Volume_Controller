@@ -4,6 +4,8 @@
 
 An OpenCV project that slides Seek and Volume bar of VLC Media Player by using the tip of the Index finger.
 
+![Demo1](https://github.com/tshr-d-dragon/Face_Mask_Detection/blob/main/Face_Mask.gif)
+
 It uses Google's mediapipe library to detect the tip of the Index finger. For more information, please visit https://google.github.io/mediapipe/solutions/hands.
 
 ## To run the prject, follow below steps
