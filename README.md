@@ -20,4 +20,4 @@ It uses Google's mediapipe library to detect the tip of the Index finger. For mo
 
 ## Please feel free to connect for any suggestions or doubts!!!
 
-##### Note: Volume is adjusted but not audible in the video because screen recorder doesn't save audio
+##### Note: Volume is adjusted but not audible in the video because the screen recorder doesn't save audio
